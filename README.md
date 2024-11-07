@@ -1,4 +1,4 @@
-# Recursive Data
+# Recursion Gone Wrong
 Classroom example to accompany the CS Fundamentals: Recursion topic.
 
 ## One-Time Activity Setup
